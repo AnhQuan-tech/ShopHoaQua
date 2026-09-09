@@ -1,0 +1,500 @@
+{
+  "products": [
+    {
+      "id": 1788919302976,
+      "name": "Việt Quất Tươi Hữu Cơ Nhập Khẩu (Hộp 125g)",
+      "slug": "vi-t-qu-t-t--i-h-u-c--nh-p-kh-u--h-p-125g-",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 89000,
+      "originalPrice": 110000,
+      "stock": 45,
+      "unit": "Hộp 125g",
+      "origin": "Chile / Peru",
+      "sweetness": "Chua ngọt dịu giàu chất chống oxy hóa",
+      "badge": "Super Food",
+      "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=600&q=80",
+      "rating": 5,
+      "reviewCount": 1,
+      "description": "Việt quất tươi nhập khẩu, quả cứng căng mọng phủ phấn tự nhiên.",
+      "isFlashSale": true,
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "Táo Envy New Zealand Size 35 (Hộp 1kg)",
+      "slug": "tao-envy-new-zealand",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 149000,
+      "originalPrice": 185000,
+      "stock": 85,
+      "unit": "Hộp 1kg",
+      "origin": "New Zealand",
+      "sweetness": "15° Brix (Giòn ngọt đậm)",
+      "badge": "Bán Chạy Nhất",
+      "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewCount": 128,
+      "description": "Táo Envy New Zealand nhập khẩu đường hàng không, quả to đều, thịt trắng tinh giòn rụm, vị ngọt đậm đà kèm hương thơm đặc trưng cuốn hút. Giàu Vitamin C và chất chống oxy hóa.",
+      "isFlashSale": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Nho Mẫu Đơn Shine Muscat Chuẩn VIP (Chùm 750g)",
+      "slug": "nho-mau-don-shine-muscat",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 389000,
+      "originalPrice": 450000,
+      "stock": 42,
+      "unit": "Chùm 750g",
+      "origin": "Hàn Quốc / Nhật Bản",
+      "sweetness": "18° Brix (Thơm mùi xoài sữa)",
+      "badge": "Siêu Phẩm",
+      "image": "https://images.unsplash.com/photo-1596363505729-4190a9506133?auto=format&fit=crop&w=600&q=80",
+      "rating": 5,
+      "reviewCount": 94,
+      "description": "Nho Mẫu Đơn Shine Muscat thượng hạng, quả tròn căng bóng, không hạt, vỏ mỏng ăn được cả vỏ, thịt dẻo ngọt ngào phảng phất hương vị sữa và xoài chín.",
+      "isFlashSale": true,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Cherry Đỏ Mỹ Size 9.0 Premium (Hộp 500g)",
+      "slug": "cherry-do-my-premium",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 289000,
+      "originalPrice": 350000,
+      "stock": 60,
+      "unit": "Hộp 500g",
+      "origin": "Washington, Hoa Kỳ",
+      "sweetness": "17° Brix (Mọng nước)",
+      "badge": "Sale 20%",
+      "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewCount": 112,
+      "description": "Cherry đỏ Washington quả to mọng, màu đỏ thẫm bóng bẩy, cuống xanh tươi rói. Cắn ngập răng cảm nhận ngay dòng nước ngọt thanh sảng khoái.",
+      "isFlashSale": false,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Dâu Tây Bạch Tuyết & Dâu Hàn Quốc (Hộp 330g)",
+      "slug": "dau-tay-han-quoc",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 195000,
+      "originalPrice": 230000,
+      "stock": 35,
+      "unit": "Hộp 330g",
+      "origin": "Hàn Quốc",
+      "sweetness": "14° Brix (Chua ngọt hài hòa)",
+      "badge": "Mới Về",
+      "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewCount": 76,
+      "description": "Dâu tây nhập khẩu chuyển bằng đường bay, quả đỏ tươi mọng nước, hương thơm ngát tự nhiên, cuống xanh mướt.",
+      "isFlashSale": true,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Sầu Riêng Ri6 Đắk Lắk Cơm Vàng Hạt Lép (Quả 2.5-3kg)",
+      "slug": "sau-rieng-ri6-dak-lak",
+      "category": "noi-dia",
+      "categoryName": "Trái Cây Nội Địa",
+      "price": 135000,
+      "originalPrice": 160000,
+      "stock": 25,
+      "unit": "1 Kg (Bao ăn 1 đổi 1)",
+      "origin": "Đắk Lắk, Việt Nam",
+      "sweetness": "Cơm vàng dẻo, béo ngậy",
+      "badge": "Bao Ăn 1-1",
+      "image": "https://images.unsplash.com/photo-1587132137056-bfbf0166836e?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewCount": 210,
+      "description": "Sầu riêng Ri6 chín tự nhiên trên cây, múi cơm vàng ươm dày cùi hạt lép, vị ngọt đậm béo ngậy thơm nức mũi. Cam kết bao ăn 1 đổi 1 nếu sượng hoặc nhạt.",
+      "isFlashSale": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Xoài Cát Hòa Lộc Tiền Giang Chuẩn Xuất Khẩu",
+      "slug": "xoai-cat-hoa-loc",
+      "category": "noi-dia",
+      "categoryName": "Trái Cây Nội Địa",
+      "price": 85000,
+      "originalPrice": 110000,
+      "stock": 90,
+      "unit": "1 Kg (Khoảng 2 quả)",
+      "origin": "Tiền Giang, Việt Nam",
+      "sweetness": "16° Brix (Ngọt thơm nồng nàn)",
+      "badge": "Đặc Sản",
+      "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewCount": 89,
+      "description": "Đặc sản xoài cát Hòa Lộc Tiền Giang nổi tiếng, vỏ vàng óng khi chín, thịt quả chắc mịn không xơ, vị ngọt thanh tao thơm lừng khắp nhà.",
+      "isFlashSale": false,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Bơ Sáp Booth 7 Tây Nguyên Dẻo Quánh (1 Kg)",
+      "slug": "bo-sap-booth-7",
+      "category": "noi-dia",
+      "categoryName": "Trái Cây Nội Địa",
+      "price": 65000,
+      "originalPrice": 85000,
+      "stock": 110,
+      "unit": "1 Kg (3-4 quả)",
+      "origin": "Lâm Đồng, Việt Nam",
+      "sweetness": "Béo ngậy dẻo bơ",
+      "badge": "Organic",
+      "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewCount": 65,
+      "description": "Bơ Booth 7 cơm vàng dẻo quánh, hàm lượng chất béo thực vật lành mạnh cao, ăn trực tiếp, làm salad hay sinh tố đều béo bùi tuyệt hảo.",
+      "isFlashSale": false,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Dưa Lưới Ruột Cam Ichiba Nhật Bản (Quả 1.5kg)",
+      "slug": "dua-luoi-ichiba",
+      "category": "noi-dia",
+      "categoryName": "Trái Cây Nội Địa",
+      "price": 99000,
+      "originalPrice": 125000,
+      "stock": 48,
+      "unit": "Quả 1.5kg",
+      "origin": "Trồng công nghệ cao tại Đà Lạt",
+      "sweetness": "15° Brix (Mát lành giòn tan)",
+      "badge": "VietGAP",
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewCount": 54,
+      "description": "Dưa lưới vân nổi đều đẹp mắt, ruột cam giòn ngọt lịm và mọng nước. Sản phẩm đạt chứng nhận nông sản sạch VietGAP.",
+      "isFlashSale": false,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Cam Vàng Navel Úc Không Hạt Mọng Nước (1 Kg)",
+      "slug": "cam-vang-navel-uc",
+      "category": "nhap-khau",
+      "categoryName": "Trái Cây Nhập Khẩu",
+      "price": 79000,
+      "originalPrice": 95000,
+      "stock": 150,
+      "unit": "1 Kg (3-4 quả)",
+      "origin": "Úc (Australia)",
+      "sweetness": "13° Brix (Vị chua ngọt thanh)",
+      "badge": "Vitamin C+",
+      "image": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewCount": 140,
+      "description": "Cam Navel quả tròn vàng bóng, tép cam mọng đầy nước, dễ bóc vỏ, không hạt, cung cấp dồi dào Vitamin C tăng đề kháng cả gia đình.",
+      "isFlashSale": true,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Giỏ Quà Trái Cây Biếu Tặng Hoàng Gia VIP",
+      "slug": "gio-trai-cay-hoang-gia-vip",
+      "category": "gio-qua",
+      "categoryName": "Giỏ Quà Biếu Tặng",
+      "price": 890000,
+      "originalPrice": 1150000,
+      "stock": 20,
+      "unit": "Giỏ VIP Kèm Nơ & Thiệp",
+      "origin": "Tuyển chọn 100% Trái Cây Nhập Khẩu",
+      "sweetness": "Đa dạng hương vị thượng hạng",
+      "badge": "Quà Tặng Sang Trọng",
+      "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=600&q=80",
+      "rating": 5,
+      "reviewCount": 78,
+      "description": "Giỏ quà thiết kế tinh tế với Táo Envy, Nho Mẫu Đơn, Cherry Đỏ, Kiwi Vàng và Cam Navel. Đi kèm ruy băng lụa cao cấp và thiệp chúc mừng theo yêu cầu.",
+      "isFlashSale": false,
+      "featured": true
+    },
+    {
+      "id": 11,
+      "name": "Giỏ Quà Trái Cây Tri Ân Cảm Ơn Đẳng Cấp",
+      "slug": "gio-qua-tri-an-dang-cap",
+      "category": "gio-qua",
+      "categoryName": "Giỏ Quà Biếu Tặng",
+      "price": 550000,
+      "originalPrice": 680000,
+      "stock": 30,
+      "unit": "Giỏ quà cao cấp",
+      "origin": "Trái cây tuyển chọn loại 1",
+      "sweetness": "Tươi ngon thanh lịch",
+      "badge": "Bán Chạy",
+      "image": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewCount": 42,
+      "description": "Món quà tinh tế thích hợp biếu tặng đối tác, thăm hỏi người thân hay lễ Tết. Đóng gói chuyên nghiệp, bảo quản lạnh tối ưu.",
+      "isFlashSale": false,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Nước Ép Trái Cây Tươi Cold-Pressed Detox (Chai 350ml)",
+      "slug": "nuoc-ep-cold-pressed-detox",
+      "category": "nuoc-ep",
+      "categoryName": "Hoa Quả Sấy & Nước Ép",
+      "price": 45000,
+      "originalPrice": 55000,
+      "stock": 80,
+      "unit": "Chai 350ml",
+      "origin": "Ép tươi trong ngày",
+      "sweetness": "100% tự nhiên không đường",
+      "badge": "100% Nguyên Chất",
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewCount": 85,
+      "description": "Nước ép công nghệ ép chậm giữ trọn 99% enzyme và vitamin. Sự kết hợp hoàn hảo từ Cam Úc, Táo Envy và Cà Rốt hữu cơ.",
+      "isFlashSale": false,
+      "featured": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "Tất Cả Sản Phẩm",
+      "icon": "LayoutGrid"
+    },
+    {
+      "id": "nhap-khau",
+      "name": "Trái Cây Nhập Khẩu",
+      "icon": "Plane"
+    },
+    {
+      "id": "noi-dia",
+      "name": "Đặc Sản Nội Địa",
+      "icon": "MapPin"
+    },
+    {
+      "id": "gio-qua",
+      "name": "Giỏ Quà Biếu Tặng",
+      "icon": "Gift"
+    },
+    {
+      "id": "nuoc-ep",
+      "name": "Nước Ép & Detox",
+      "icon": "Coffee"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-5150",
+      "customer": "Lê Hoàng Long",
+      "phone": "0912345678",
+      "address": "123 Phố Huế, Hà Nội",
+      "note": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Táo Envy New Zealand",
+          "price": 149000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 298000,
+      "discount": 50000,
+      "total": 248000,
+      "paymentMethod": "COD",
+      "status": "pending",
+      "createdAt": "2026-09-09T02:01:42.914Z"
+    },
+    {
+      "id": "ORD-1001",
+      "customer": "Trần Thị Mai Anh",
+      "phone": "0987654321",
+      "address": "Số 25 Phố Huế, Hoàn Kiếm, Hà Nội",
+      "note": "Giao trước 11h trưa giúp mình nhé, quà tặng sinh nhật",
+      "items": [
+        {
+          "id": 1,
+          "name": "Táo Envy New Zealand Size 35 (Hộp 1kg)",
+          "price": 149000,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Nho Mẫu Đơn Shine Muscat Chuẩn VIP (Chùm 750g)",
+          "price": 389000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 687000,
+      "discount": 50000,
+      "total": 637000,
+      "paymentMethod": "COD",
+      "status": "completed",
+      "createdAt": "2026-09-08T14:30:00.000Z"
+    },
+    {
+      "id": "ORD-1002",
+      "customer": "Nguyễn Hoàng Minh",
+      "phone": "0912345678",
+      "address": "Toà Landmark 81, P.22, Bình Thạnh, TP.HCM",
+      "note": "Gọi trước khi giao 15 phút",
+      "items": [
+        {
+          "id": 10,
+          "name": "Giỏ Quà Trái Cây Biếu Tặng Hoàng Gia VIP",
+          "price": 890000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 890000,
+      "discount": 0,
+      "total": 890000,
+      "paymentMethod": "QR",
+      "status": "delivering",
+      "createdAt": "2026-09-09T07:15:00.000Z"
+    },
+    {
+      "id": "ORD-1003",
+      "customer": "Lê Vũ Phương Uyên",
+      "phone": "0905123987",
+      "address": "120 Nguyễn Văn Linh, Hải Châu, Đà Nẵng",
+      "note": "Đóng thùng xốp bảo quản lạnh cẩn thận",
+      "items": [
+        {
+          "id": 3,
+          "name": "Cherry Đỏ Mỹ Size 9.0 Premium (Hộp 500g)",
+          "price": 289000,
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "name": "Dâu Tây Bạch Tuyết & Dâu Hàn Quốc (Hộp 330g)",
+          "price": 195000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 968000,
+      "discount": 100000,
+      "total": 868000,
+      "paymentMethod": "QR",
+      "status": "pending",
+      "createdAt": "2026-09-09T08:10:00.000Z"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "wp_mega_popup",
+      "name": "WP Fruit Marketing Popup Pro",
+      "description": "Popup quảng cáo siêu to khổng lồ nhảy ra khi khách vào shop, tặng mã voucher giảm giá 50k-100k, thu thập SĐT khách hàng.",
+      "version": "3.2.0",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "title": "🎉 ĐẠI TIỆC HOA QUẢ NHẬP KHẨU GIẢM 50%",
+        "subtitle": "Chào bạn mới! Tặng ngay voucher 50.000đ cho đơn hàng hoa quả tươi đầu tiên.",
+        "couponCode": "HOAQUA50",
+        "delaySeconds": 1.5,
+        "badgeText": "FLASH DEAL HÔM NAY",
+        "ctaText": "NHẬN VOUCHER NGAY",
+        "imageUrl": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=700&q=80"
+      }
+    },
+    {
+      "id": "wp_social_proof",
+      "name": "WP Social Proof Live Orders",
+      "description": "Popup nhảy thông báo đơn hàng liên tục ở góc dưới bên trái (ví dụ: Chị Lan vừa mua 2kg Táo Envy 2 phút trước). Tăng độ uy tín 300%.",
+      "version": "2.4.1",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "intervalSeconds": 9,
+        "position": "bottom-left"
+      }
+    },
+    {
+      "id": "wp_lucky_wheel",
+      "name": "WP Lucky Spin Wheel & Gamification",
+      "description": "Nút hộp quà lắc lư ở góc màn hình. Khách bấm vào sẽ hiện Vòng Quay May Mắn trúng voucher, dâu tây hoặc quà tặng bất ngờ!",
+      "version": "1.8.0",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "buttonText": "Vòng Quay May Mắn 🎁",
+        "chancesPerUser": 3
+      }
+    },
+    {
+      "id": "wp_falling_fruits",
+      "name": "WP Fruit & Leaf Falling Animation",
+      "description": "Hiệu ứng các quả dâu tây mini và lá cây xanh rơi bồng bềnh lãng mạn trên trang web, tạo không gian tươi mát sinh động.",
+      "version": "1.2.0",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "density": "medium",
+        "speed": "slow"
+      }
+    },
+    {
+      "id": "wp_floating_contact",
+      "name": "WP Floating Contact & Zalo Hotline",
+      "description": "Cụm nút liên hệ nổi góc dưới bên phải: Gọi Hotline nhanh, Chat Zalo tư vấn chọn giỏ quà, chat Messenger.",
+      "version": "2.1.0",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "hotline": "1900 8888",
+        "zalo": "0988889999",
+        "showMessenger": true
+      }
+    },
+    {
+      "id": "wp_countdown_bar",
+      "name": "WP Top Flash Sale Countdown Bar",
+      "description": "Thanh thông báo đếm ngược thời gian Flash Sale và freeship ghim trên đầu trang web.",
+      "version": "1.0.5",
+      "author": "FruitWP Team",
+      "active": true,
+      "settings": {
+        "message": "🔥 SIÊU HỘI TRÁI CÂY TƯƠI SẠCH: FREESHIP MỌI ĐƠN TỪ 300K - TẶNG THIỆP VIP CHO GIỎ QUÀ!",
+        "hoursRemaining": 14
+      }
+    }
+  ],
+  "settings": {
+    "siteTitle": "FRUIT PARADISE - Hoa Quả Tươi Sạch Cao Cấp",
+    "hotline": "1900 8888",
+    "phone": "0988.888.999",
+    "email": "contact@fruitparadise.vn",
+    "address": "Tầng 1, Tòa Landmark 81, 720A Điện Biên Phủ, P.22, Bình Thạnh, TP.HCM & 88 Hai Bà Trưng, Hoàn Kiếm, Hà Nội",
+    "adminUser": "admin",
+    "adminPass": "admin",
+    "shippingFee": 25000,
+    "freeShippingMin": 300000,
+    "vouchers": [
+      {
+        "code": "HOAQUA50",
+        "discount": 50000,
+        "minOrder": 300000,
+        "desc": "Giảm 50k cho đơn từ 300k"
+      },
+      {
+        "code": "FREESHIP",
+        "discount": 25000,
+        "minOrder": 200000,
+        "desc": "Miễn phí vận chuyển 25k"
+      },
+      {
+        "code": "VIP100",
+        "discount": 100000,
+        "minOrder": 600000,
+        "desc": "Giảm 100k cho đơn từ 600k"
+      }
+    ]
+  }
+}
