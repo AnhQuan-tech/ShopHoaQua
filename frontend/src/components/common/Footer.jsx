@@ -96,7 +96,7 @@ export default function Footer() {
                 onClick={() => setCurrentView("admin")}
                 className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-mono transition-colors border border-slate-700"
               >
-                <span>WordPress Admin CMS (admin/admin)</span>
+                <span>Dashboard Admin (admin/admin)</span>
               </button>
             </div>
           </div>
@@ -176,8 +176,7 @@ export default function Footer() {
         {/* Bottom copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <p>
-            © 2026 Fruit Paradise. Giao diện chuẩn UI/UX Pro Max & Hệ thống quản
-            trị WordPress CMS.
+            © 2026 Fruit Paradis.
           </p>
           <div className="flex items-center gap-4">
             <span className="hover:text-slate-400 cursor-pointer">Bảo mật</span>
