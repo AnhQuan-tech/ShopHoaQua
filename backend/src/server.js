@@ -31,12 +31,16 @@ app.get("/api/health", (req, res) => {
   res.json({ status: "ok", timestamp: new Date().toISOString() });
 });
 
-// Start Server
-app.listen(PORT, () => {
-  console.log(`\n======================================================`);
-  console.log(`🍉 FRUIT PARADISE STORE - BACKEND RESTful API`);
-  console.log(`🚀 Máy chủ Backend đang chạy tại: http://localhost:${PORT}`);
-  console.log(`🗄️  CSDL MySQL: ${process.env.DB_NAME || "shop_hoa_qua"} (Port ${process.env.DB_PORT || 3306})`);
-  console.log(`🔑 Đăng nhập Admin WP: Tài khoản "admin" | Mật khẩu "admin"`);
-  console.log(`======================================================\n`);
-});
+// Start Server (chỉ lắng nghe khi không phải serverless Vercel)
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`\n======================================================`);
+    console.log(`🍉 FRUIT PARADISE STORE - BACKEND RESTful API`);
+    console.log(`🚀 Máy chủ Backend đang chạy tại: http://localhost:${PORT}`);
+    console.log(`🗄️  CSDL MySQL: ${process.env.DB_NAME || "shop_hoa_qua"} (Port ${process.env.DB_PORT || 3306})`);
+    console.log(`🔑 Đăng nhập Admin WP: Tài khoản "admin" | Mật khẩu "admin"`);
+    console.log(`======================================================\n`);
+  });
+}
+
+export default app;
